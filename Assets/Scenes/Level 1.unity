@@ -671,7 +671,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1315005428}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 5.981, y: 2.709, z: 0}
+  m_LocalPosition: {x: 1.02, y: 2.75, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 1131006790}
@@ -1073,6 +1073,7 @@ GameObject:
   - component: {fileID: 1825614847}
   - component: {fileID: 1825614846}
   - component: {fileID: 1825614845}
+  - component: {fileID: 1825614848}
   m_Layer: 0
   m_Name: Lizard
   m_TagString: Untagged
@@ -1164,6 +1165,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1825614848
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1825614844}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9aab07ca47485bb43a4f377887dedfa6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  walkSpeed: 0.6
 --- !u!1 &2077582912
 GameObject:
   m_ObjectHideFlags: 0

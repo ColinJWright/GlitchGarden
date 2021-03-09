@@ -1193,15 +1193,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3438880604111737986, guid: 2b98279ebf4cfcd49a25e20a2d4526a6,
+    - target: {fileID: 1720963798766864744, guid: 2b98279ebf4cfcd49a25e20a2d4526a6,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.02899999
+      value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 3438880604111737986, guid: 2b98279ebf4cfcd49a25e20a2d4526a6,
+    - target: {fileID: 1720963798766864744, guid: 2b98279ebf4cfcd49a25e20a2d4526a6,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.14899999
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3438880604295740464, guid: 2b98279ebf4cfcd49a25e20a2d4526a6,
         type: 3}
@@ -1216,12 +1216,12 @@ PrefabInstance:
     - target: {fileID: 3438880604295740466, guid: 2b98279ebf4cfcd49a25e20a2d4526a6,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.02
+      value: 2.036
       objectReference: {fileID: 0}
     - target: {fileID: 3438880604295740466, guid: 2b98279ebf4cfcd49a25e20a2d4526a6,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.75
+      value: 2.925
       objectReference: {fileID: 0}
     - target: {fileID: 3438880604295740466, guid: 2b98279ebf4cfcd49a25e20a2d4526a6,
         type: 3}
@@ -1262,16 +1262,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3438880605061986693, guid: 2b98279ebf4cfcd49a25e20a2d4526a6,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.01
-      objectReference: {fileID: 0}
-    - target: {fileID: 3438880605061986693, guid: 2b98279ebf4cfcd49a25e20a2d4526a6,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.23
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2b98279ebf4cfcd49a25e20a2d4526a6, type: 3}

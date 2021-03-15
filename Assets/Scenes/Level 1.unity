@@ -265,6 +265,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 60716206}
     m_Modifications:
+    - target: {fileID: 1473538852, guid: 926e0bce2aa9c4d4a8f19d084c800cbf, type: 3}
+      propertyPath: maxSpawnDelay
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1473538852, guid: 926e0bce2aa9c4d4a8f19d084c800cbf, type: 3}
+      propertyPath: minSpawnDelay
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8222350282844136738, guid: 926e0bce2aa9c4d4a8f19d084c800cbf,
         type: 3}
       propertyPath: m_RootOrder
@@ -412,6 +420,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 60716206}
     m_Modifications:
+    - target: {fileID: 1473538852, guid: 926e0bce2aa9c4d4a8f19d084c800cbf, type: 3}
+      propertyPath: maxSpawnDelay
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1473538852, guid: 926e0bce2aa9c4d4a8f19d084c800cbf, type: 3}
+      propertyPath: minSpawnDelay
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8222350282844136738, guid: 926e0bce2aa9c4d4a8f19d084c800cbf,
         type: 3}
       propertyPath: m_RootOrder
@@ -842,6 +858,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 60716206}
     m_Modifications:
+    - target: {fileID: 1473538852, guid: 926e0bce2aa9c4d4a8f19d084c800cbf, type: 3}
+      propertyPath: maxSpawnDelay
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1473538852, guid: 926e0bce2aa9c4d4a8f19d084c800cbf, type: 3}
+      propertyPath: minSpawnDelay
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8222350282844136738, guid: 926e0bce2aa9c4d4a8f19d084c800cbf,
         type: 3}
       propertyPath: m_RootOrder
@@ -1175,6 +1199,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 60716206}
     m_Modifications:
+    - target: {fileID: 1473538852, guid: 926e0bce2aa9c4d4a8f19d084c800cbf, type: 3}
+      propertyPath: maxSpawnDelay
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 1473538852, guid: 926e0bce2aa9c4d4a8f19d084c800cbf, type: 3}
+      propertyPath: minSpawnDelay
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8222350282844136738, guid: 926e0bce2aa9c4d4a8f19d084c800cbf,
         type: 3}
       propertyPath: m_RootOrder
